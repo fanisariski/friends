@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "nama": "Faiqotul Hikma",
+            "tempat_tinggal": "Jakarta",
+            "tanggal_lahir": "6 Mei 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Menonton Film",
+            "foto": "https://drive.google.com/file/d/1jgCgSwjAH-3mHVQNJANOboMwWGqCLXKB/view?usp=sharing"
+        },
+        {
+            "nama": "Fakhirah Diva Muslimah",
+            "tempat_tinggal": "Depok",
+            "tanggal_lahir": "11 Januari 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Membaca Buku",
+            "foto": "https://drive.google.com/file/d/1N1kxOtCXMWN7oUmeyKlwx1vBLo_AgL3g/view?usp=sharing"
+        },
+        {
+            "nama": "Ikhsan Nobrian",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "25 Mei 2003",
+            "jurusan": "Informatika",
+            "hobi": "Olahraga Basket",
+            "foto": "https://drive.google.com/file/d/1JnnMgj8vvsI5apsH_sfbjot_FH9qUDcf/view?usp=sharing"
+        },
+        {
+            "nama": "Azzahra Najma Bachid",
+            "tempat_tinggal": "Tangerang",
+            "tanggal_lahir": "23 Desember 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Menyanyi",
+            "foto": "https://drive.google.com/file/d/13gOt_qRfeVRjYI2eqmA4zCqQD7tw9gxm/view?usp=sharing"
+        },
+        {
+            "nama": "Mahalia Ziva Utama",
+            "tempat_tinggal": "Tangerang",
+            "tanggal_lahir": "3 Maret 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Menonton Film",
+            "foto": "https://drive.google.com/file/d/11bj4xhv8gd0gEAsXXSdkw13QvXPtI6Zp/view?usp=sharing"
+        },
+        {
+            "nama": "Fauzan Arbhi Matondang",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "5 Desember 2003",
+            "jurusan": "Teknik Mesin",
+            "hobi": "Traveling",
+            "foto": "https://drive.google.com/file/d/1A4-EXQMay7tIWBNokNVDgNPn0tuu2PTd/view?usp=sharing"
+        },
+        {
+            "nama": "Ananda Ayu Destriani",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "26 Desember 2002",
+            "jurusan": "Sastra Indonesia",
+            "hobi": "Melukis",
+            "foto": "https://drive.google.com/file/d/1P8GcUiFklNOUOoE08iMXSQ5UW19RPNsG/view?usp=sharing"
+        },
+        {
+            "nama": "Fildzah Ghaisani Arifah",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "22 November 2003",
+            "jurusan": "Keperawatan",
+            "hobi": "Traveling",
+            "foto": "https://drive.google.com/file/d/1-nHemAKrMSrvGL3S6zjNcS8HNnPSF_V4/view?usp=sharing"
+        },
+        {
+            "nama": "Auliya Dewi Safitri",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "16 Maret 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Traveling",
+            "foto": "https://drive.google.com/file/d/1ydBT0tSU8UurecklgOjwyPDrpoj3C3O_/view?usp=sharing"
+        },
+        {
+            "nama": "Pratama Ammar Nadhif",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "15 Juli 2003",
+            "jurusan": "Teknik Mesin",
+            "hobi": "Traveling",
+            "foto": "https://drive.google.com/file/d/1XWr2Vusp7rrd0J1umgKU6nPzZ7jscqVa/view?usp=sharing"
+        }
+    ]
+}
