@@ -1,0 +1,84 @@
+{
+    "result": [
+        {
+            "nama": "Faiqotul Hikma",
+            "tempat_tinggal": "Jakarta",
+            "tanggal_lahir": "6 Mei 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Menonton Film",
+            "foto": "https://t4.ftcdn.net/jpg/01/44/49/53/360_F_144495312_2qtfrkPHvKd6oa8B70sGhNHgtyqIl8yd.jpg"
+        },
+        {
+            "nama": "Fakhirah Diva Muslimah",
+            "tempat_tinggal": "Depok",
+            "tanggal_lahir": "11 Januari 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Membaca Buku",
+            "foto": "https://us.123rf.com/450wm/grgroup/grgroup1611/grgroup161103961/65282322-woman-cartoon-icon-female-avatar-person-human-and-people-theme-isolated-design-vector.jpg"
+        },
+        {
+            "nama": "Ikhsan Nobrian",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "25 Mei 2003",
+            "jurusan": "Informatika",
+            "hobi": "Olahraga Basket",
+            "foto": "https://png.pngtree.com/png-clipart/20200701/original/pngtree-character-design-in-a-single-person-png-image_5359699.jpg"
+        },
+        {
+            "nama": "Azzahra Najma Bachid",
+            "tempat_tinggal": "Tangerang",
+            "tanggal_lahir": "23 Desember 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Menyanyi",
+            "foto": "https://previews.123rf.com/images/grgroup/grgroup1611/grgroup161108935/65491782-girl-cartoon-icon-kid-childhood-little-people-and-person-theme-isolated-design-vector-illustration.jpg"
+        },
+        {
+            "nama": "Mahalia Ziva Utama",
+            "tempat_tinggal": "Tangerang",
+            "tanggal_lahir": "3 Maret 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Menonton Film",
+            "foto": "https://img.freepik.com/premium-vector/woman-cartoon-icon-avatar-people-person-human-theme-isolated-design-vector-illustration_25030-10955.jpg?w=360"
+        },
+        {
+            "nama": "Fauzan Arbhi Matondang",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "5 Desember 2003",
+            "jurusan": "Teknik Mesin",
+            "hobi": "Traveling",
+            "foto": "https://img.freepik.com/premium-vector/businessman-vector-illustration_613663-835.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais"
+        },
+        {
+            "nama": "Ananda Ayu Destriani",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "26 Desember 2002",
+            "jurusan": "Sastra Indonesia",
+            "hobi": "Melukis",
+            "foto": "https://st2.depositphotos.com/1007566/12298/v/950/depositphotos_122982520-stock-illustration-avatar-woman-cartoon.jpg"
+        },
+        {
+            "nama": "Fildzah Ghaisani Arifah",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "22 November 2003",
+            "jurusan": "Keperawatan",
+            "hobi": "Traveling",
+            "foto": "https://st2.depositphotos.com/3369547/11512/v/950/depositphotos_115128296-stock-illustration-cartoon-woman-icon-person-design.jpg"
+        },
+        {
+            "nama": "Auliya Dewi Safitri",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "16 Maret 2003",
+            "jurusan": "Sistem Informasi",
+            "hobi": "Traveling",
+            "foto": "https://st2.depositphotos.com/3369547/11512/v/950/depositphotos_115128508-stock-illustration-cartoon-woman-icon-person-design.jpg"
+        },
+        {
+            "nama": "Pratama Ammar Nadhif",
+            "tempat_tinggal": "Bekasi",
+            "tanggal_lahir": "15 Juli 2003",
+            "jurusan": "Teknik Mesin",
+            "hobi": "Traveling",
+            "foto": "https://img.freepik.com/premium-vector/businessman-vector-illustration_613663-562.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699660800&semt=ais"
+        }
+    ]
+}
